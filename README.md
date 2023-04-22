@@ -22,8 +22,7 @@ The Paint Application is built using C# and the .NET Framework
 * Redo must be pressed two times for one redo
 
 ### UI:
-![file](https://user-images.githubusercontent.com/127993219/233756376-e190f127-90f4-4775-8364-d5d6ac2db405.png)
-*File Button*
+![file](https://user-images.githubusercontent.com/127993219/233756376-e190f127-90f4-4775-8364-d5d6ac2db405.png)*File Button*
 
 ![edit](https://user-images.githubusercontent.com/127993219/233756383-13c9b5a2-135c-47d3-a506-88213b1e70e3.png)
 *Edit Button*
