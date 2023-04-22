@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paint", "paint\paint.csproj", "{662D064C-5297-4E63-B951-1A83FA9948BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{662D064C-5297-4E63-B951-1A83FA9948BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662D064C-5297-4E63-B951-1A83FA9948BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662D064C-5297-4E63-B951-1A83FA9948BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662D064C-5297-4E63-B951-1A83FA9948BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3EE20E5-2033-42A4-AF0B-04726F8EEC76}
+	EndGlobalSection
+EndGlobal
